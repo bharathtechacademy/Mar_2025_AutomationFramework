@@ -95,7 +95,7 @@
 					<version>3.5.3</version>
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>TestRunner/RegressionTest.xml</suiteXmlFile>
+							<suiteXmlFile>TestRunner/${TestSuite}</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
